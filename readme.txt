@@ -1,2 +1,3 @@
-Ez egy szöveges fájl, milyen csudajó!
-Még egy sorral kiegészítem, mert miért ne?
+Ez egy szÃ¶veges fÃ¡jl, milyen csudajÃ³!
+MÃ©g egy sorral kiegÃ©szÃ­tem, mert miÃ©rt ne?
+Ide ezt Ã­rom.
