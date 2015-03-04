@@ -13,15 +13,13 @@ import java.util.logging.Logger;
  * @author Pali
  */
 public class Main {
-    public static void main(String... args){
-        String as = "aj21333;é34\n2s";
-        try{
+    public static void main(String... args) throws Exception{
+        String as = "aj21333;é-34\n2s";
+        
         metodus(as);
         //probametodus();
-        }
-        catch(Exception e){
-           System.out.println(e.getMessage()); 
-        }
+        
+        
     }
 
     private static void metodus(String as) throws Exception{
